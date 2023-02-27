@@ -1,0 +1,20 @@
+{
+  "devreact": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fidauthamplifyreact-devreact-100053-authRole",
+      "UnauthRoleArn": "arn:aws:iam::408747087976:role/amplify-fidauthamplifyreact-devreact-100053-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::408747087976:role/amplify-fidauthamplifyreact-devreact-100053-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-fidauthamplifyreact-devreact-100053-deployment",
+      "UnauthRoleName": "amplify-fidauthamplifyreact-devreact-100053-unauthRole",
+      "StackName": "amplify-fidauthamplifyreact-devreact-100053",
+      "StackId": "arn:aws:cloudformation:eu-west-1:408747087976:stack/amplify-fidauthamplifyreact-devreact-100053/3e77f6d0-b67d-11ed-9b78-02d4459e74bb",
+      "AmplifyAppId": "d15n0h748bg8m7"
+    },
+    "categories": {
+      "auth": {
+        "fidauthamplifyreact7703cb30": {}
+      }
+    }
+  }
+}
